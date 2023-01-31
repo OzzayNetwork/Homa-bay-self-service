@@ -197,7 +197,7 @@ nav ul li a {
 
 nav ul li:hover a,
 nav ul li.active a {
-  color: #4b9539;
+  color: #0063c0;
 }
 
 nav ul li a::before {
@@ -213,7 +213,7 @@ nav ul li a::before {
 
 nav ul li:hover a::before,
 nav ul li.active a::before {
-  background-color: #4b9539;
+  background-color: #0063c0;
   width: 100%;
 }
 
@@ -294,7 +294,7 @@ nav ul li.active a::before {
 }
 
 .btn {
-  background-color: #4b9539;
+  background-color: #0063c0;
   border-width: 2px;
   border-radius: 0 30px 30px;
   color: white;
@@ -330,7 +330,7 @@ nav ul li.active a::before {
 }
 
 .btn-process {
-  background-color: #4b9539;
+  background-color: #0063c0;
   border-width: 2px;
   color: white;
   font-size: 13px;
@@ -347,7 +347,7 @@ nav ul li.active a::before {
 }
 
 .btn-process:hover {
-  background: #377909;
+  background: #0045a1;
 }
 
 .btn-process:hover i {
@@ -355,7 +355,7 @@ nav ul li.active a::before {
 }
 
 .btn-process-submit {
-  background-color: #4b9539;
+  background-color: #0063c0;
   border-width: 2px;
   color: white;
   font-size: 13px;
@@ -372,7 +372,7 @@ nav ul li.active a::before {
 }
 
 .btn-process-outline {
-  color: #4b9539;
+  color: #0063c0;
   border-width: 2px;
   line-height: 1;
   text-transform: uppercase;
@@ -382,11 +382,11 @@ nav ul li.active a::before {
   justify-content: center;
   border-radius: 3px;
   font-size: 20px;
-  border: 2px solid #4b9539;
+  border: 2px solid #0063c0;
 }
 
 .btn-process-outline:hover {
-  background: #377909 !important;
+  background: #0045a1 !important;
   color: white !important;
 }
 
@@ -401,7 +401,7 @@ nav ul li.active a::before {
 
 .payment-modal hr {
   width: 100px;
-  border-bottom: 4px solid #4b9539;
+  border-bottom: 4px solid #0063c0;
   border-radius: 5px;
 }
 
@@ -411,7 +411,7 @@ nav ul li.active a::before {
 }
 
 .modal .btn-process-outline {
-  color: #4b9539;
+  color: #0063c0;
   border-width: 2px;
   line-height: 1;
   text-transform: uppercase;
@@ -422,7 +422,7 @@ nav ul li.active a::before {
   border-radius: 3px;
   font-size: 13px;
   background-color: white;
-  border: 2px solid #4b9539;
+  border: 2px solid #0063c0;
 }
 
 .payment-modal .btn-process-outline-black {
@@ -499,7 +499,7 @@ h6 {
 }
 
 .trade-modal .modal-body .card-body .modal-dots {
-  background-color: #c0e8b7;
+  background-color: #8dc9f9;
   height: 3px;
   width: 30px;
   margin-right: 3px;
@@ -509,7 +509,7 @@ h6 {
 }
 
 .trade-modal .modal-body .card-body .modal-nav .active {
-  background-color: #377909 !important;
+  background-color: #0045a1 !important;
 }
 
 .trade-modal .form-group {
@@ -572,8 +572,8 @@ h6 {
 .btn:hover,
 .border-btn {
   background-color: transparent;
-  border-color: #4b9539;
-  color: #4b9539;
+  border-color: #0063c0;
+  color: #0063c0;
 }
 
 .border-btn:hover {
@@ -718,7 +718,7 @@ main {
   bottom: -10px;
   width: 136px;
   height: 5px;
-  background: #4b9539;
+  background: #0063c0;
 }
 
 .slider-text p {
@@ -839,7 +839,7 @@ main {
 }
 
 .slider-carousel .owl-dots .owl-dot {
-  background-color: #c0e8b7;
+  background-color: #8dc9f9;
   height: 3px;
   width: 30px;
   margin-right: 3px;
@@ -848,7 +848,7 @@ main {
 }
 
 .slider-carousel .owl-dots .owl-dot.active {
-  background-color: #4b9539;
+  background-color: #0063c0;
 }
 
 /* about */
@@ -946,7 +946,7 @@ main {
 .the-service {
   color: #afb5c9;
   padding: 1.2rem 2rem;
-  background-color: #4b9539;
+  background-color: #0063c0;
   display: flex;
   align-items: center;
   height: 100%;
@@ -965,7 +965,7 @@ main {
 
 .the-service p {
   margin-bottom: 0px;
-  color: #d7ffc9;
+  color: #baddfb;
 }
 
 .the-service img {
@@ -1002,7 +1002,7 @@ main {
 }
 
 .bg-primary {
-  background-color: #4b9539 !important;
+  background-color: #0063c0 !important;
 }
 
 .single-services ul li {
@@ -1844,7 +1844,7 @@ footer h2 {
 }
 
 .text-primary {
-  color: #4b9539 !important;
+  color: #0063c0 !important;
 }
 
 .text-secondary {
@@ -2147,7 +2147,7 @@ aside {
   border-width: 1px;
   margin-top: 20px;
   margin-bottom: 20px;
-  border-color: #4b9539;
+  border-color: #0063c0;
   color: red;
 }
 
@@ -2533,7 +2533,7 @@ input[type="checkbox"] {
 .checkbox>input[type="radio"]:checked~.checkbox__label:before,
 .radio>input[type="checkbox"]:checked~.checkbox__label:before,
 .radio>input[type="radio"]:checked~.checkbox__label:before {
-  background-color: #4b9539;
+  background-color: #0063c0;
 }
 
 .checkbox>input[type="checkbox"]:checked~.checkbox__label:before,
@@ -2544,7 +2544,7 @@ input[type="checkbox"] {
 .radio>input[type="checkbox"]:checked~.radio__label:before,
 .radio>input[type="radio"]:checked~.checkbox__label:before,
 .radio>input[type="radio"]:checked~.radio__label:before {
-  border-color: #4b9539;
+  border-color: #0063c0;
 }
 
 .breadcrumb-item+.breadcrumb-item:before,
@@ -3036,7 +3036,7 @@ body {
 .avatar-char {
   font-size: 1.2rem;
   color: #fff;
-  background: #4b9539;
+  background: #0063c0;
   border-radius: 50%;
   width: 2rem;
   height: 2rem;
@@ -3089,14 +3089,14 @@ body {
 .line {
   position: absolute;
   opacity: 0.4;
-  background: #4b9539;
+  background: #0063c0;
   width: 150%;
   height: 3px;
 }
 
 .subline {
   position: absolute;
-  background: #4b9539;
+  background: #0063c0;
   height: 3px;
 }
 
@@ -3148,7 +3148,7 @@ body {
   width: 13px;
   height: 13px;
   border-radius: 50%;
-  background: #4b9539;
+  background: #0063c0;
   animation-timing-function: cubic-bezier(0, 1, 1, 0);
 }
 
@@ -3219,7 +3219,7 @@ body {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #4b9539;
+  background: #0063c0;
   animation-timing-function: cubic-bezier(0, 1, 1, 0);
 }
 
@@ -3349,7 +3349,7 @@ body {
 .bill-ellipsis {
   border: 16px solid #f3f3f3;
   /* Light grey */
-  border-top: 16px solid #4b9539;
+  border-top: 16px solid #0063c0;
   /* red */
   border-radius: 50%;
   width: 20px;
@@ -3373,7 +3373,7 @@ body {
 .hygiene-ellipsis {
   border: 100px solid #f3f3f3;
   /* Light grey */
-  border-top: 100px solid #4b9539;
+  border-top: 100px solid #0063c0;
   /* red */
   border-radius: 50%;
   width: 205px;
@@ -3491,12 +3491,12 @@ body {
 }
 
 .sidenav a:hover {
-  color: #4b9539;
+  color: #0063c0;
 }
 
 .sidenav .active {
-  color: #4b9539;
-  border-left: #4b9539 5px solid;
+  color: #0063c0;
+  border-left: #0063c0 5px solid;
 }
 
 .main {
