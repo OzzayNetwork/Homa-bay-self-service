@@ -684,6 +684,7 @@ main {
   overflow: hidden;
   background-position: bottom left;
   background-size: contain;
+  background-size: contain;
 }
 
 /* slider */
