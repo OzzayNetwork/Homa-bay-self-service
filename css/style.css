@@ -67,7 +67,7 @@ a:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #056c5f;
+  background-color: #0045a1;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -75,7 +75,7 @@ a:hover {
 }
 
 ::selection {
-  background-color: #056c5f;
+  background-color: #0045a1;
   color: #ffffff;
 }
 
@@ -265,7 +265,7 @@ nav ul li.active a::before {
 }
 
 .slicknav_nav a {
-  color: #056c5f;
+  color: #0045a1;
   font-weight: 500;
 }
 
@@ -577,8 +577,8 @@ h6 {
 }
 
 .border-btn:hover {
-  background-color: #056c5f;
-  border-color: #056c5f;
+  background-color: #0045a1;
+  border-color: #0045a1;
   color: #ffffff;
 }
 
@@ -623,7 +623,7 @@ h6 {
 }
 
 .offcanvas-times:hover {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 .offcanvas p {
@@ -653,7 +653,7 @@ h6 {
 }
 
 .single-offcanvas-contact a:hover {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 .offcanvas.show {
@@ -866,7 +866,7 @@ main {
 }
 
 .section-heading span {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 .section-heading h2 {
@@ -886,8 +886,8 @@ main {
 }
 
 .about-btn .btn {
-  background-color: #056c5f;
-  border-color: #056c5f;
+  background-color: #0045a1;
+  border-color: #0045a1;
   color: #ffffff;
   margin-right: 10px;
   margin-bottom: 30px;
@@ -897,13 +897,13 @@ main {
 .about-btn .btn:hover,
 .about-btn .border-btn {
   background-color: transparent;
-  border-color: #056c5f;
-  color: #056c5f;
+  border-color: #0045a1;
+  color: #0045a1;
 }
 
 .about-btn .border-btn:hover {
-  background-color: #056c5f;
-  border-color: #056c5f;
+  background-color: #0045a1;
+  border-color: #0045a1;
   color: #ffffff;
 }
 
@@ -1013,7 +1013,7 @@ main {
 }
 
 .single-services ul li i {
-  color: #056c5f;
+  color: #0045a1;
   margin-right: 22px;
 }
 
@@ -1058,7 +1058,7 @@ main {
 }
 
 .single-progress-bar .progress-bar {
-  background-color: #056c5f;
+  background-color: #0045a1;
   color: #ffffff;
   font-size: 12px;
   text-align: right;
@@ -1095,12 +1095,12 @@ main {
 
 .portfolio-filter li:hover,
 .portfolio-filter li.active {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 .portfolio-filter li:hover,
 .portfolio-filter li.active {
-  border-color: #056c5f;
+  border-color: #0045a1;
 }
 
 .single-portfolio {
@@ -1109,7 +1109,7 @@ main {
 }
 
 .single-portfolio::before {
-  background-color: #056c5f;
+  background-color: #0045a1;
   content: "";
   position: absolute;
   top: 0;
@@ -1267,13 +1267,13 @@ main {
 
 .experience-icon i {
   background-color: #f6f5ff;
-  color: #056c5f;
+  color: #0045a1;
   font-size: 24px;
   padding: 28px;
 }
 
 .single-experience span {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 .single-experience h3 {
@@ -1310,7 +1310,7 @@ main {
 }
 
 .single-education-qualification::before {
-  background-color: #056c5f;
+  background-color: #0045a1;
   border: 4px solid #ffffff;
   border-radius: 50%;
   box-shadow: 0 4px 8px 0 rgba(5, 108, 95, 0.3);
@@ -1323,7 +1323,7 @@ main {
 }
 
 .single-education-qualification span {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 .single-education-qualification h3 {
@@ -1349,7 +1349,7 @@ main {
 }
 
 .education-img i {
-  background-color: #056c5f;
+  background-color: #0045a1;
   box-shadow: 0 8px 16px 0 rgba(5, 108, 95, 0.3);
   color: #ffffff;
   font-size: 20px;
@@ -1394,7 +1394,7 @@ main {
 }
 
 .team-member-details span {
-  color: #056c5f;
+  color: #0045a1;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -1414,7 +1414,7 @@ main {
 }
 
 .social-icons a:hover {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 /* contact */
@@ -1601,7 +1601,7 @@ main {
 }
 
 .testimonials-author-details span {
-  color: #056c5f;
+  color: #0045a1;
   font-weight: 700;
 }
 
@@ -1623,7 +1623,7 @@ main {
 }
 
 .testimonials-carousel .owl-dots .owl-dot {
-  background-color: #056c5f;
+  background-color: #0045a1;
   height: 3px;
   width: 30px;
   margin-right: 3px;
@@ -1668,7 +1668,7 @@ main {
 }
 
 .single-blog ul li a {
-  color: #056c5f;
+  color: #0045a1;
   margin-right: 29px;
 }
 
@@ -1699,7 +1699,7 @@ main {
 }
 
 .read-more {
-  color: #056c5f;
+  color: #0045a1;
   font-weight: 500;
   text-decoration: underline;
 }
@@ -1729,7 +1729,7 @@ footer {
 }
 
 .footer-text a:hover {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 footer h2 {
@@ -1760,7 +1760,7 @@ footer h2 {
 }
 
 .single-footer-contact a:hover {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 .copyright-text {
@@ -1776,11 +1776,11 @@ footer h2 {
 }
 
 .copyright-text p a:hover {
-  color: #056c5f;
+  color: #0045a1;
 }
 
 #scrollUp {
-  background-color: #056c5f;
+  background-color: #0045a1;
   border-radius: 50%;
   color: #ffffff;
   font-size: 20px;
