@@ -484,7 +484,7 @@ h6 {
 }
 
 #trade-license-application .modal-body .card-body .modal-dots {
-    background-color: #baddfb;
+    background-color: #a1da9b;
     height: 3px;
     width: 30px;
     margin-right: 3px;
@@ -788,7 +788,7 @@ main {
 }
 
 .slider-carousel .owl-dots .owl-dot {
-    background-color: #baddfb;
+    background-color: #0063c085;
     height: 3px;
     width: 30px;
     margin-right: 3px;
@@ -1873,7 +1873,7 @@ aside {
     display: flex;
 }
 
-.header-side-sub .fs1 {
+.header-side-sub .fs1,.header-side-sub .mdi {
     font-size: 24px;
     color: black;
     cursor: pointer;
@@ -2829,12 +2829,14 @@ body {
         width: 660px;
     }
 }
-
-.bg-black {
-  --bs-bg-opacity: 1;
-  background-color: black !important;
+.bg-black{
+    background-color: black !important;
 }
 .text-black{
-  color: black !important;
+    color: black !important;
 }
+.slider-carousel{
+  background-color: rgb(0 123 255 / 25%);  
+}
+
 
