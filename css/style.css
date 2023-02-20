@@ -2838,5 +2838,8 @@ body {
 .slider-carousel{
   background-color: rgb(0 123 255 / 25%);  
 }
+.home-bg-img{
+    background-image: url(../img/slider2.jpg);
+}
 
 
