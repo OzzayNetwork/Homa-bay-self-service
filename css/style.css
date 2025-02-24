@@ -3569,3 +3569,6 @@ body {
 .d-flex{
     display: flex !important;
 }
+.modal{
+  /* z-index: 1030; */
+}
