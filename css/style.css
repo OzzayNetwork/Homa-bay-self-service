@@ -168,6 +168,7 @@ button:focus {
 
 header {
     background-color: rgb(216 9 26 / 2%);
+    background-color: rgb(5 77 16 / 25%);
     position: absolute;
     top: 0;
     right: 0;
@@ -1839,7 +1840,7 @@ footer h2 {
 
 aside {
     width: 400px;
-    position: absolute;
+    position: fixed;
     top: 0px;
     right: 0px;
     height: 100vh;
@@ -2111,12 +2112,13 @@ aside {
 
 .aside-footer {
     padding: 30px;
-    position: absolute;
+    position: fixed;
     width: 400px;
     bottom: 0px;
     z-index: 20;
     right: 0px;
     transition-duration: 0.4s;
+    background-color: #e9e9e9;
 }
 
 .aside-footer-confirm {
@@ -2607,9 +2609,7 @@ body {
     .offcanvas-bars {
         display: none;
     }
-    .slicknav_btn {
-        margin-top: -45px;
-    }
+    
     .single-slider {
         min-height: calc(100vh - 152px);
     }
@@ -2711,6 +2711,38 @@ body {
     justify-content: center;
   }
 
+  /* logo and header on phone */
+  .logo-container h4{
+    font-size: large;
+
+  }
+  .slider-text p{
+    font-size: medium;
+  }
+  .slider-text span{
+    font-size: 15px;
+  }
+
+  .slider-text{
+    padding: 1.2rem;
+  }
+  .slider-btn{
+    margin: 0px;
+    font-size: 12px;
+  }
+
+  .slider-btn .btn{
+    font-size: 12px;
+    font-weight: 400;
+    padding: 16px 21px;
+  }
+  .popup-video i{
+    font-size: 18px;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  
+
    
 }
 
@@ -2718,6 +2750,38 @@ body {
 /* Small devices (landscape phones, 576px and up) */
 
 @media (min-width: 576px) and (max-width: 767.98px) {
+
+  /* logo and header on phone */
+  .logo-container h4{
+    font-size: large;
+
+  }
+  .slider-text p{
+    font-size: medium;
+  }
+  .slider-text span{
+    font-size: 15px;
+  }
+
+  .slider-text{
+    padding: 1.2rem;
+  }
+  .slider-btn{
+    margin: 0px;
+    font-size: 12px;
+  }
+
+  .slider-btn .btn{
+    font-size: 12px;
+    font-weight: 400;
+    padding: 16px 21px;
+  }
+  .popup-video i{
+    font-size: 18px;
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+
     .slider-carousel .owl-dots {
         width: 540px;
     }
@@ -2908,6 +2972,12 @@ body {
 .landing-page-container {
   min-height: 100vh;
   background-color: #0374d2;
+}
+.logo-container>div{
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  flex-flow: column;
 }
 
 
