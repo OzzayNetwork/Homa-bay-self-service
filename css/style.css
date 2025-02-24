@@ -2741,6 +2741,9 @@ body {
     margin-left: 7px;
     margin-right: 7px;
   }
+  .popup-video {
+    font-size: 12px;
+  }
   
 
    
@@ -2820,6 +2823,9 @@ body {
   flex-flow: column;
   align-items: center;
   justify-content: center;
+}
+.popup-video {
+  font-size: 12px;
 }
    
 }
