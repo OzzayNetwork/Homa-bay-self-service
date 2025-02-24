@@ -2841,5 +2841,8 @@ body {
 .home-bg-img{
     background-image: url(../img/slider2.jpg);
 }
+.bill-service-option{
+  height: 100%;
+}
 
 
