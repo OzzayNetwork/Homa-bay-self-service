@@ -241,6 +241,7 @@ nav ul li.active a::before {
     border-radius: 0;
     padding: 0;
     margin: -54px 0 0;
+    margin: -61px 0 0;
 }
 
 .slicknav_menu .slicknav_icon-bar {
@@ -445,7 +446,7 @@ h6 {
 }
 
 #trade-license-application .modal-dialog {
-    max-width: 70% !important;
+    /* max-width: 70% !important; */
 }
 
 #trade-license-application .modal-header {
