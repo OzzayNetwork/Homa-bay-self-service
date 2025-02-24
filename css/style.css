@@ -2690,15 +2690,25 @@ body {
     }
 
     .the-service img{
-      height: 40px;
-      margin-right: 10px;
+      height: 45px;
+      margin-right: 0px;
+      margin-bottom: 20px;
+      margin-top: 10px;
     }
 
     .the-service h4 {
      font-size: 15px;
+     text-align: center;
   }
   .the-service p {
     font-size: 12px;
+  }
+
+  
+  .the-service{
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
   }
 
    
@@ -2726,6 +2736,27 @@ body {
   .the-service p {
     font-size: 12px;
   }
+  .the-service img{
+    height: 45px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+  }
+
+  .the-service h4 {
+   font-size: 15px;
+   text-align: center;
+}
+.the-service p {
+  font-size: 12px;
+}
+
+
+.the-service{
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
    
 }
 
