@@ -91,6 +91,7 @@
     });
 
     function serviceNav(service) {
+        console.log(service)
         $('#' + service).removeClass('right-neg-100');
         $('#' + service).siblings().addClass('right-neg-100');
         $('.landing-page-container').addClass('margin-neg-400-left');

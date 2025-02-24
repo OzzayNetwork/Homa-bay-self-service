@@ -2688,6 +2688,20 @@ body {
     footer h2 {
         font-size: 26px;
     }
+
+    .the-service img{
+      height: 40px;
+      margin-right: 10px;
+    }
+
+    .the-service h4 {
+     font-size: 15px;
+  }
+  .the-service p {
+    font-size: 12px;
+  }
+
+   
 }
 
 
@@ -2700,6 +2714,19 @@ body {
     .education-img i {
         top: 477.5px;
     }
+
+    .the-service img{
+      height: 40px;
+      margin-right: 10px;
+    }
+
+    .the-service h4 {
+     font-size: 15px;
+  }
+  .the-service p {
+    font-size: 12px;
+  }
+   
 }
 
 
@@ -2843,6 +2870,13 @@ body {
 }
 .bill-service-option{
   height: 100%;
+}
+.the-services-container .col-4>div{
+  height: 100%;
+}
+.landing-page-container {
+  min-height: 100vh;
+  background-color: #0374d2;
 }
 
 
