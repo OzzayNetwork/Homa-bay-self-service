@@ -271,7 +271,7 @@
         loop: true,
         margin: 0,
         nav: false,
-        autoplay: true,
+        autoplay: false,
         autoplayHoverPause: true,
         autoplayTimeout: 5000,
         responsive: {
