@@ -2246,7 +2246,7 @@ aside .sub-streams strong {
 
 .right-neg-100 {
     right: -100%;
-    transition: ease-in-out 2s all;
+    transition: ease-in 0.4s all;
 }
 
 .cars-add {
